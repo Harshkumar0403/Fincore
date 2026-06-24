@@ -4,6 +4,8 @@ FinCore AI is a modular multi-agent financial assistant built using Agno, Groq L
 
 The system combines financial knowledge from books, live market information, web search, and numerical calculations to answer finance and accounting queries in a reliable and structured manner.
 
+link : https://fincore-production-7bfa.up.railway.app/docs
+
 ---
 
 ## Features

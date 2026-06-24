@@ -23,3 +23,6 @@ rich
 
 tiktoken
 langchain-text-splitters
+
+fastapi
+uvicorn
